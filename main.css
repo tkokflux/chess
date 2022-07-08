@@ -1,0 +1,45 @@
+
+
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.head{
+    width: 45%;
+    height: 64px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #7025FB;
+}
+.land-page{
+    width: 45%;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+.orange{
+    width: 55%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: #FD5334;
+    height: 100%;
+}
+.text-ora{
+  font-family: Nunito;
+  font-weight: 800;
+  color: white;
+  font-size: 83px;
+  height: 100%;
+}
+.text-div{
+    width: 496px;
+    height: 109px;
+    position: absolute;
+
+}
