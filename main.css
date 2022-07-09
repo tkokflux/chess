@@ -5,41 +5,101 @@
     padding: 0;
     box-sizing: border-box;
     margin: 0;
+    overflow: hidden;
+  
 }
-.head{
-    width: 45%;
-    height: 64px;
+.imcont{
+    width: 923px;
+    height: 1196px;
     position: absolute;
-    top: 0;
     left: 0;
+}
+.landimg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: -100px;
+ 
+    object-fit: contain;
+}
+.top-pur{
+    width: 923px;
+    height: 84px;
     background-color: #7025FB;
-}
-.land-page{
-    width: 45%;
-    height: 100%;
-    left: 0;
     position: absolute;
-    top: 0px;
-    z-index: -1;
-}
-.orange{
-    width: 55%;
-    position: absolute;
-    right: 0;
     top: 0;
-    background-color: #FD5334;
-    height: 100%;
-}
-.text-ora{
-  font-family: Nunito;
-  font-weight: 800;
-  color: white;
-  font-size: 83px;
-  height: 100%;
-}
-.text-div{
-    width: 496px;
-    height: 109px;
-    position: absolute;
+    left: 0;
 
+}
+.oran{
+    width: 997px;
+    height: 1280px;
+    background-color: #FD5334;
+    position: absolute;
+    left: 923px;
+
+
+}
+.texo{
+    font-family: 'Nunito', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    position: absolute;
+    left: 1008px;
+    z-index: 2;
+    top: 265px;
+}
+.textw{
+    font-family: 'Nunito', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+    color: white;
+    position: absolute;
+    left: 1008px;
+    z-index: 2;
+    top: 390px;
+}
+.textblk{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #212529;
+    position: absolute;
+    left: 1530px;
+    z-index: 2;
+    top: 306px;
+}
+.getstrt{
+    width: 191px;
+    height: 53px;
+    position: absolute;
+    top: 601px;
+    left: 1008px;
+    border-radius: 8px;
+    padding: 13px, 24px,13px,24px;
+    gap: 10px;
+    background-color: #212529;
+    outline: none;
+    border: none;
+}
+.two{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 27px;
+    font-size: 20px;
+    font-style: normal;
+    position: absolute;
+    left: 24px;
+    top: 13px;
+}
+.search{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 143px;
+    top: 14.5px;
 }
