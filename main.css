@@ -103,3 +103,17 @@
     left: 143px;
     top: 14.5px;
 }
+.redberry{
+    width: 252px;
+    height: 23px;
+    position: absolute;
+    top: 30px;
+    left: 83px;
+}
+.vector{
+    width: 14px;
+    height: 18px;
+    position: absolute;
+    left: 60px;
+    top: 30px;
+}
