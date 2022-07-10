@@ -117,3 +117,200 @@
     left: 60px;
     top: 30px;
 }
+.nextimg{
+    width: 923px;
+    height: 996px;
+}
+.regform{
+    width: 999px;
+    background-color: #F5F5F5;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 2300px;
+}
+.start{
+    position: absolute;
+width: 215px;
+height: 24px;
+right: 734px;
+top: 30px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 150%;
+}
+.circ1{
+width: 40px;
+height: 40px;
+position: absolute;
+right: 850px;
+top: 144px;
+background: #E9FAF1;
+border-radius: 8px;
+}
+.circ2{
+ width: 40px;
+height: 40px;
+position: absolute;
+right: 628px;
+top: 144px;
+background: #F5F5F5;
+border: 1px solid #E5E6E8;
+border-radius: 8px;
+}
+.pers{
+position: absolute;
+width: 328px;
+height: 48px;
+right: 621px;
+top: 324px;
+color: black;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 150%;
+}
+.basicinfo{
+position: absolute;
+width: 205px;
+height: 21px;
+right: 744px;
+top: 375px;
+color: #95939A;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+}
+.inputfield{
+    width: 775px;
+    height: 258px;
+    position: absolute;
+    top: 481px;
+    left: 48px;
+    background-color: #E9ECEF;
+    padding: 8px 16px;
+}
+.nameinput{
+    width: 743px;
+    height: 30px;
+    top: 8px;
+    left: 16px;
+    position: absolute;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 1e-06);
+}
+.emailin{
+    width: 743px;
+    height: 30px;
+    top: 8px;
+    left: 16px;
+    position: absolute;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 1e-06);
+}
+.phonein{
+    width: 743px;
+    height:30px;
+    position: absolute;
+    left: 16px;
+    top: 8px;
+}
+.datein{
+    width: 743px;
+    height:30px;
+    position: absolute;
+    left: 16px;
+    top: 8px;
+}
+.un1{
+    width: 775px;
+    height: 46px;
+    border-radius: 4px;
+    padding: 8px 16px 8px 16px;
+    background-color: #E9ECEF;
+    position: absolute;
+    top: 481px;
+    right: 174px;
+    
+}
+.un2{
+    width: 775px;
+    height: 46px;
+    border-radius: 4px;
+    padding: 8px 16px 8px 16px;
+    background-color: #E9ECEF;
+    position: absolute;
+    right: 174px;
+ 
+    top: 567px;
+
+    
+}
+.un3{
+    width: 775px;
+    height: 46px;
+    border-radius: 4px;
+    padding: 8px 16px 8px 16px;
+    background-color: #E9ECEF;
+    position: absolute;
+    right: 174px;
+
+    top: 653px;
+    
+}
+.un4{
+    width: 775px;
+    height: 46px;
+    border-radius: 4px;
+    padding: 8px 16px 8px 16px;
+    background-color: #E9ECEF;
+    position: absolute;
+    top: 739px;
+    right: 174px;
+    
+}
+.infoper{
+    position: absolute;
+width: 158px;
+height: 24px;
+right: 791px;
+top: 188px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+.chessexp{
+    position: absolute;
+width: 158px;
+height: 24px;
+right: 583px;
+top: 188px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+}
+.uno{
+position: absolute;
+width: 11px;
+height: 25px;
+left: 14px;
+top: 8px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+color: #212529;
+}
