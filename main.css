@@ -84,7 +84,7 @@
     outline: none;
     border: none;
 }
-.two{
+.twos{
     color: white;
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
@@ -155,7 +155,7 @@ border-radius: 8px;
  width: 40px;
 height: 40px;
 position: absolute;
-right: 628px;
+right: 648px;
 top: 144px;
 background: #F5F5F5;
 border: 1px solid #E5E6E8;
@@ -196,7 +196,7 @@ line-height: 150%;
     background-color: #E9ECEF;
     padding: 8px 16px;
 }
-.nameinput{
+#nameinput{
     width: 743px;
     height: 30px;
     top: 8px;
@@ -204,8 +204,10 @@ line-height: 150%;
     position: absolute;
     padding: 0;
     background-color: rgba(255, 255, 255, 1e-06);
+    border: none;
+    color: black;
 }
-.emailin{
+#emailin{
     width: 743px;
     height: 30px;
     top: 8px;
@@ -213,22 +215,25 @@ line-height: 150%;
     position: absolute;
     padding: 0;
     background-color: rgba(255, 255, 255, 1e-06);
+    border: none;
 }
-.phonein{
+#phonein{
     width: 743px;
     height:30px;
     position: absolute;
     left: 16px;
     top: 8px;
+    border: none;
 }
-.datein{
+#datein{
     width: 743px;
     height:30px;
     position: absolute;
     left: 16px;
     top: 8px;
+    border: none;
 }
-.un1{
+#un1{
     width: 775px;
     height: 46px;
     border-radius: 4px;
@@ -239,7 +244,7 @@ line-height: 150%;
     right: 174px;
     
 }
-.un2{
+#un2{
     width: 775px;
     height: 46px;
     border-radius: 4px;
@@ -252,7 +257,7 @@ line-height: 150%;
 
     
 }
-.un3{
+#un3{
     width: 775px;
     height: 46px;
     border-radius: 4px;
@@ -264,7 +269,7 @@ line-height: 150%;
     top: 653px;
     
 }
-.un4{
+#un4{
     width: 775px;
     height: 46px;
     border-radius: 4px;
@@ -314,3 +319,386 @@ font-size: 18px;
 line-height: 25px;
 color: #212529;
 }
+.two{
+    position: absolute;
+width: 11px;
+height: 25px;
+
+top: 8px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+color: #212529;
+
+}
+.advance{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 13px 24px;
+gap: 10px;
+position: absolute;
+width: 128px;
+height: 53px;
+right: 174px;
+top: 23px;
+background: #212529;
+border-radius: 8px;
+}
+.advtxt{
+width: 44px;
+height: 27px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-transform: capitalize;
+color: #FFFFFF;
+position: absolute;
+top: 13px;
+left: 24px;
+}
+.faith{
+    width: 24px;
+    height: 24px;
+  
+    position: absolute;
+    top: 14.5px;
+    left: 80px;
+}
+.verf{
+    position: absolute;
+    top: 13px;
+    width: 20px;
+    height: 20px;
+    left: 735px;
+    visibility: hidden;
+}
+.donefirst{
+  position: absolute;
+  top: 30px;
+  left: 48px;
+}
+.chesexp{
+    position: absolute;
+    left: 48px;
+    top: 324px;
+}
+.thi{
+    position: absolute;
+    top: 375px;
+    right: 744px;
+}
+.backtoss{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 13px 24px;
+    gap: 10px;
+    
+    position: absolute;
+    width: 93px;
+    height: 53px;
+    right: 856px;
+    top: 873px;
+    
+    border: 1px solid #212529;
+    border-radius: 8px;
+
+
+}
+.bacsss{
+    position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+   
+}
+.idgf{
+    width: 743px;
+    height: 30px;
+    position: absolute;
+    right: 201px;
+    top: 625px;
+}
+
+.txtss{
+width: 51px;
+height: 27px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-transform: capitalize;
+color: white;
+text-decoration: none;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.ret{
+    text-decoration: none;
+}
+.when{
+    position: absolute;
+    left: 132px;
+    top: 295px;
+}
+.eman{
+    position: absolute;
+    left: 132px;
+    top: 402px;
+}
+.px26{
+    position: absolute;
+    top: 261px;
+    left: 117px;
+}
+.siege{
+    position: absolute;
+    left: 466px;
+    top: 384px;
+}
+.onboard{
+    position: absolute;
+    top: 622px;
+    right: 317px;
+}
+.ca{
+    position: absolute;
+    top: 416px;
+    right: 445px;
+}
+.level{
+    width: 392px;
+    height: 46px;
+    background-color: transparent;
+    position: absolute;
+    top: 491px;
+    right: 567px;
+}
+
+.level2{
+    width: 392px;
+    height: 46px;
+    background-color: white;
+    position: absolute;
+    top: 491px;
+    right: -1567px;
+ 
+}
+
+
+
+
+
+
+.level3{
+    width: 392px;
+    height: 46px;
+    background-color: white;
+    position: absolute;
+    top: 491px;
+    right: -1567px;
+   
+}
+.level4{
+    width: 392px;
+    height: 46px;
+    background-color: white;
+    position: absolute;
+    top: 491px;
+    right: -1567px;
+   
+}
+
+
+.changed{
+    right: 567px;
+}
+.changed2{
+    right: 567px;
+}
+.changed3{
+    right: 567px;
+}
+
+
+
+
+.player{
+    width: 392px;
+    height: 46px;
+    background-color: transparent;
+    position: absolute;
+    top: 491px;
+    right: 152px;
+   
+    
+}
+
+
+
+
+
+
+
+.player2{
+    width: 392px;
+    height: 46px;
+    background-color: white;
+    position: absolute;
+    top: -1501px;
+    right: 152px;
+   
+}
+
+
+
+
+
+.player3{
+    width: 392px;
+    height: 46px;
+
+    position: absolute;
+    top: -1501px;
+    right: 152px;
+    background-color: white;
+  
+}
+.player4{
+    width: 392px;
+    height: 46px;
+    background-color: white;
+    position: absolute;
+    top: -1501px;
+    right: 152px;
+}
+.changes2{
+    top: 501px;
+    }
+    .changes3{
+        top: 501px;
+        }
+        .changes4{
+            top: 501px;
+            }
+    
+.up{
+    position: absolute;
+    width: 13px;
+    height: 7px;
+    position: absolute;
+    top: 19.5px;
+    right: 19.5px;
+}
+.up2{
+    position: absolute;
+    width: 13px;
+    height: 7px;
+    position: absolute;
+    top: 19.5px;
+    right: 19.5px;
+}
+.lev{
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+.txt3{
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+}
+.scroll{
+    width: 392px;
+    height: 199px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 541px;
+    right:-557px;
+}
+.scroll2{
+    width: 392px;
+    height: 419px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 541px;
+    right:-532px;
+}
+.change{
+    right: 557px;
+}
+.changes{
+    right: 152px;
+}
+.beg{
+    position: absolute;
+    top: 28px;
+    left: 1px;
+}
+.int{
+    position: absolute;
+    top:82px;
+    left: 1px;
+}
+.prof{
+    position: absolute;
+    top: 136px;
+    left: 1px;
+}
+.tot4{
+    position: absolute;
+    top: 16px;
+    left: 28px;
+}
+.mag{
+    position: absolute;
+    top: 69px;
+    left: 28px;
+}
+.wil{
+    position: absolute;
+    top: 157px;
+    left: 28px;
+}
+.bob{
+    position: absolute;
+    top: 245px;
+    left: 28px;
+}
+.bobby2butblack{
+    position: absolute;
+    top: 333px;
+    left: 28px;
+}
+.magpic{
+    top: 48px;
+    right: 19px;
+    position: absolute;
+}
+.magpic2{
+    right: 19px;
+    top: 136px;
+    position: absolute;
+}
+.magpic3{
+    right: 19px;
+    top: 224px;
+    position: absolute;
+}
+.magpic4{
+    top: 312px;
+    right: 19px;
+    position: absolute;
+}
+
+
+
